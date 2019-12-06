@@ -8,7 +8,7 @@ This script assumes an already working installation of your spleeter library. To
 
 `pip install pyqt5 audio_metadata`
 
-Once the libraries are installed, double click  the StemsUI.pyw file to open and use the interface. 
+Once the libraries are installed, double click the StemsUI.pyw file in the engine folder to open and use the interface. 
 
 
 Screenshot:
